@@ -3,5 +3,10 @@
 </script>
 
 <template>
-  <JobListing />
+  <header class="border border-success">
+    <h1>img here</h1>
+  </header>
+  <main class="d-flex flex-column justify-content-center align-items-center border border-warning">
+    <JobListing />
+  </main>
 </template>
